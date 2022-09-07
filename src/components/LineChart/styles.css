@@ -1,0 +1,9 @@
+.recharts-wrapper .recharts-cartesian-grid-horizontal line:first-child,
+.recharts-wrapper .recharts-cartesian-grid-horizontal line:last-child {
+    stroke-opacity: 0;
+}
+
+.recharts-text>tspan {
+    font-family: 'lato';
+    font-size: large;
+}

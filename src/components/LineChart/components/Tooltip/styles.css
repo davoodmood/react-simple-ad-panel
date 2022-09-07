@@ -1,0 +1,15 @@
+.tooltip {
+    border-radius: 0.5rem;
+    background-color: #25313c;
+    color: #ffffff;
+    outline: none;
+    border-width: 0;
+    border-color: transparent;
+    padding: 0.5rem 2rem;
+    box-shadow: 5px 15px 30px 5px hsla(0, 0%, 0%, 0.5);
+    -moz-box-shadow: 5px 15px 30px 5px hsla(0, 0%, 0%, 0.5);
+    -webkit-box-shadow: 5px 15px 30px 5px hsla(0, 0%, 0%, 0.5);
+    text-align: center;
+    font-family: 'lato';
+    font-size: medium;
+}
